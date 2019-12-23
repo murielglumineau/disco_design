@@ -1,0 +1,97 @@
+
+
+
+/*MAIN*/
+
+#main img{
+    height:auto;
+    width:70%;
+}
+
+
+p{
+  font-family: 'Aileron thin', arial;  
+  font-size: 2em;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+
+/* BLOCK CONTACT*/
+
+
+#block_contact{
+    background-color: #faf9ff;
+    height: auto;
+    width: auto;
+    border-bottom-color: black;
+    border-bottom: 0.1rem solid;
+}
+
+form{
+    margin-left: 20px;
+}
+
+#input_mail input{
+    height:100px;
+    width:50% ;
+    font-family:'Aileron thin', arial;
+    font-size: 2.7em;
+    color: black;
+    margin-bottom: 20px;
+}
+
+#input_area{
+    height:400px;
+    width:70% ;
+    font-family:'Aileron thin', arial;
+    font-size: 0.9em;
+    color: black;
+    
+}
+
+#bouton_envoyer input{
+    height:110px;
+    width:280px ;
+    font-family:'Aileron thin', arial;
+    font-size: 2.5em;
+    color: white;
+    background-color:#1647Fb ;
+    float: right;
+    margin-left: 390px;
+    margin-top: -120px;
+    position: absolute;
+}
+
+
+
+/* BLOCK A PROPOS*/
+
+#block_apropos img{
+    float: right;
+    margin-top: -25px;
+   
+}
+
+#block_apropos p{
+    margin-top: 260px;
+}
+
+
+
+/* NEWSLETTER*/
+
+
+#back_rose{
+    background-color:#c2185b ;
+}
+
+#block_news{
+    background-color:#2c1f36 ;
+}
+
+
+
+
+
+
